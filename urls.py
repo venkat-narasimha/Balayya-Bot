@@ -1,5 +1,5 @@
 #TestBotToken
-BotToken='Nzk0NzgyNjk3NDQwMjgwNjI2.GH30_x.5yKyWrD_n8JwX8VPqrZvxD8Od0a-KfthM6iBMM'
+BotToken='Nzk0NzgyNjk3NDQwMjgwNjI2.GlWabT.7h5BfwZzJ4np1R2WdGKMmavHS6Gr7CNo3StsvA'
 
 #inviteLink
 invite_link ='👉 [Click here](https://discord.com/api/oauth2/authorize?client_id=794782697440280626&permissions=8&scope=bot)'
