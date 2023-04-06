@@ -1,3 +1,9 @@
+#other rules
+actions.py
+balayya_commands.py
+error_handlings.py
+urls.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,9 +133,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-#other rules
-actions.py
-balayya_commands.py
-error_handlings.py
-urls.py
