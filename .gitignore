@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#other rules
+actions.py
+balayya_commands.py
+error_handlings.py
+urls.py
