@@ -1,4 +1,5 @@
 #other rules
+.env
 actions.py
 balayya_commands.py
 error_handlings.py
