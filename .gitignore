@@ -1,5 +1,4 @@
 #other rules
-.env
 actions.py
 balayya_commands.py
 error_handlings.py
@@ -109,7 +108,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
