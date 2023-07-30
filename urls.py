@@ -1,5 +1,11 @@
-#TestBotToken
-BotToken='Nzk0NzgyNjk3NDQwMjgwNjI2.GlWabT.7h5BfwZzJ4np1R2WdGKMmavHS6Gr7CNo3StsvA'
+import os
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
+
+# Access the BOT_TOKEN environment variable
+BotToken = os.getenv('BotToken')
 
 #inviteLink
 invite_link ='👉 [Click here](https://discord.com/api/oauth2/authorize?client_id=794782697440280626&permissions=8&scope=bot)'
