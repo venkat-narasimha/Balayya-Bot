@@ -1,6 +1,6 @@
 # The Legend - Discord Bot
 
-![Bot pfp]([https://cdn.discordapp.com/attachments/1093230444645974217/1093230775148752977/bb_dp_2.jpg](https://cdn.discordapp.com/attachments/1093230444645974217/1093230775148752977/bb_dp_2.jpg?ex=674aa740&is=674955c0&hm=ab33e01637d4a19c31c356d968ccd89ab8af0078edc52581ea6bf2a45989253d&))
+![Bot pfp](https://cdn.discordapp.com/attachments/1093230444645974217/1093230775148752977/bb_dp_2.jpg?ex=674aa740&is=674955c0&hm=ab33e01637d4a19c31c356d968ccd89ab8af0078edc52581ea6bf2a45989253d&)
 
 ## Overview
 
