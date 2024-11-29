@@ -62,4 +62,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to modif
 
 ---
 
-Enjoy the fun and entertainment brought to you by The Legend! For any inquiries or feedback, please contact via telegram -> ![here](https://t.me/Miles_Mora_less).
+Enjoy the fun and entertainment brought to you by The Legend! For any inquiries or feedback, please contact via telegram -> [here](https://t.me/Miles_Mora_less).
