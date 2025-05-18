@@ -1,10 +1,10 @@
-# The Legend - Discord Bot
+# Balayya Bot - Discord Bot
 
 ![Bot pfp](https://cdn.discordapp.com/attachments/1093230444645974217/1311944136399523891/bb_dp_21.jpg?ex=674ab2b0&is=67496130&hm=ab9dc7956ffcb35218abef7449d10a06a8c45aecf9bfd0962675522ac9a39561&)
 
 ## Overview
 
-The The Legend is a Python-based Discord bot that brings fun and entertainment to your server with random GIFs, dialogues, and pictures featuring the legendary figure Balakrishna. It offers a variety of commands to engage users and create an enjoyable atmosphere within the community.
+The Balayya Bot is a Python-based Discord bot that brings fun and entertainment to your server with random GIFs, dialogues, and pictures featuring the legendary figure Balakrishna. It offers a variety of commands to engage users and create an enjoyable atmosphere within the community.
 
 ## Features
 
@@ -22,11 +22,11 @@ The The Legend is a Python-based Discord bot that brings fun and entertainment t
 
 - **Personalized Greetings**: Mention a user and use the `balayya greet @user` command to have Balakrishna greet them with a random gif.
 
-- **Bot Invite**: Invite The Legend to your server with the `balayya invite` command, sending an invite link directly to your DM.
+- **Bot Invite**: Invite Balayya Bot to your server with the `balayya invite` command, sending an invite link directly to your DM.
 
 ## How to Use
 
-1. Invite the The Legend to your Discord server using the invite link provided.
+1. Invite the Balayya Bot to your Discord server using the invite link provided.
 
 2. Access the bot's features using various commands like `balayya profile`, `balayya emote`, `balayya fun`, and more.
 
@@ -50,11 +50,11 @@ The The Legend is a Python-based Discord bot that brings fun and entertainment t
 
 6. Invite the bot to your Discord server using the OAuth2 URL provided in the Developer Portal.
 
-7. The Legend is now ready to entertain your server members with Balakrishna's fun content!
+7. Balayya Bot is now ready to entertain your server members with Balakrishna's fun content!
 
 ## Contributing
 
-Contributions to the The Legend project are welcome! Feel free to open issues, suggest improvements, or submit pull requests to enhance the bot's functionality and user experience.
+Contributions to the Balayya Bot project are welcome! Feel free to open issues, suggest improvements, or submit pull requests to enhance the bot's functionality and user experience.
 
 ## License
 
@@ -62,4 +62,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to modif
 
 ---
 
-Enjoy the fun and entertainment brought to you by The Legend! For any inquiries or feedback, please contact via telegram -> [here](https://t.me/Miles_Mora_less).
+Enjoy the fun and entertainment brought to you by Balayya Bot! For any inquiries or feedback, please contact via discord @drstrange__

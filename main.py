@@ -3,6 +3,14 @@
 from balayya_commands import *
 from actions import *
 from error_handlings import on_command_error
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
+# get the bot token from the .env file
+BotToken = os.getenv('BOT_TOKEN')
+if BotToken is None:
+    raise ValueError("BOT_TOKEN environment variable not set. Please set it in your environment or .env file.")
 
 client = commands.Bot(command_prefix='balayya ', help_command=None,intents=discord.Intents.all())
 

@@ -1,7 +1,3 @@
-import os
-
-BotToken = os.environ['BotToken']
-
 #inviteLink
 invite_link ='👉 [Click here](https://discord.com/api/oauth2/authorize?client_id=794782697440280626&permissions=8&scope=bot)'
 

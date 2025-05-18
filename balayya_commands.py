@@ -47,7 +47,7 @@ async def fun(ctx):
 @client.command(aliases=['md'])
 async def movie(ctx):
     embed_movied = discord.Embed(color = random.randint(0, 0xffffff))
-    random_movie_dialogue = random.choice(movie_dialogue)
+    random_movie_dialogue = random.choice(movie_dialouge)
     embed_movied.set_image(url= random_movie_dialogue)
     await ctx.send(f'{ctx.author.mention}' , embed = embed_movied)
 
